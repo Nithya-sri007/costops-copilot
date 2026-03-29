@@ -1,0 +1,23 @@
+# AI Cost Guardian
+
+## 🚀 Overview
+AI system to detect and reduce enterprise cost leakage.
+
+## 💡 Features
+- Detect duplicate invoices
+- Identify overpricing
+- Suggest cost optimization
+- Automated action recommendations
+
+## 🧱 Tech Stack
+- Python
+- Flask
+- Pandas
+
+## ▶️ How to Run
+1. Clone the repo
+2. Run the backend
+3. Open dashboard
+
+## 💰 Impact
+Reduces unnecessary spending and improves efficiency.
